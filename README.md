@@ -13,7 +13,7 @@ I love exploring vulnerabilities, securing networks, and developing innovative b
 ---
 
 ### ⚙️ Tech Stack
-**Languages:** Python, HTML, CSS, JavaScript  
+**Languages:** Python, HTML, CSS, 
 **Frameworks:** Django, Bootstrap  
 **Cyber Security Tools:** Nmap, Wireshark, Burp Suite, Metasploit  
 **Databases:** SQLite, MySQL  
@@ -30,12 +30,12 @@ I love exploring vulnerabilities, securing networks, and developing innovative b
 ---
 
 ### 📫 Connect with Me
-🌐 [Portfolio / GitHub Pages](https://abir275635.github.io/)  
-💼 [GitHub Profile](https://github.com/Abir275635)  
-📧 Email: example@email.com  
+🌐 [Portfolio / GitHub Pages](https://tanjidhossainabir.github.io/)  
+💼 [GitHub Profile](https://github.com/tanjidhossainabir)  
+📧 Email: tanjidhossain2756@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
-![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abir275635&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir275635&layout=compact&theme=tokyonight)
+![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjidhossainabir&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjidhossainabir&layout=compact&theme=tokyonight)
